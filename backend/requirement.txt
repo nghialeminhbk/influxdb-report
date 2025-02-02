@@ -1,0 +1,4 @@
+flask
+influxdb_client
+python-dotenv
+flask_cors
